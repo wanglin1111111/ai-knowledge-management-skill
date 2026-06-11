@@ -1,8 +1,8 @@
----
-name: ai-knowledge-management
+﻿---
+name: AI知识管理技能包
 description: "AI知识管理技能包，涵盖多源整合、可溯源检索、关联分析等四大核心技能"
 version: 1.0.0
-author: "AI Skill Extractor"
+author: wanglin1111111
 tags: ["知识管理", "AI工具", "信息处理", "学术研究"]
 ---
 
