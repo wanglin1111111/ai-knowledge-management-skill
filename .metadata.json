@@ -1,0 +1,15 @@
+{
+  "assetType": "skill",
+  "name": "ai-knowledge-management",
+  "displayName": "AI知识管理技能包",
+  "semver": "1.0.2",
+  "description": "AI知识管理技能包，涵盖多源异构文档整合、可溯源知识检索、跨文档关联分析、多模态内容生成等四大核心技能。适用于学术研究者、知识工作者和终身学习者。",
+  "author": "22812",
+  "tags": [
+    "knowledge-management",
+    "AI-tools",
+    "information-processing",
+    "academic-research",
+    "learning"
+  ]
+}
